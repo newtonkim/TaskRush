@@ -1,1 +1,44 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"taskrush-9f8a4","appId":"1:813850757085:android:a2220384caae29f6e45834","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"taskrush-9f8a4","appId":"1:813850757085:ios:9ef28269e75ce13de45834","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"taskrush-9f8a4","appId":"1:813850757085:ios:9ef28269e75ce13de45834","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"taskrush-9f8a4","configurations":{"android":"1:813850757085:android:a2220384caae29f6e45834","ios":"1:813850757085:ios:9ef28269e75ce13de45834","macos":"1:813850757085:ios:9ef28269e75ce13de45834","web":"1:813850757085:web:34475a59cb8dea47e45834","windows":"1:813850757085:web:0ea32dcaa643ee73e45834"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "taskrush-9f8a4",
+          "appId": "1:813850757085:android:a2220384caae29f6e45834",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "taskrush-9f8a4",
+          "appId": "1:813850757085:ios:9ef28269e75ce13de45834",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "taskrush-9f8a4",
+          "appId": "1:813850757085:ios:9ef28269e75ce13de45834",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "taskrush-9f8a4",
+          "configurations": {
+            "android": "1:813850757085:android:a2220384caae29f6e45834",
+            "ios": "1:813850757085:ios:9ef28269e75ce13de45834",
+            "macos": "1:813850757085:ios:9ef28269e75ce13de45834",
+            "web": "1:813850757085:web:34475a59cb8dea47e45834",
+            "windows": "1:813850757085:web:0ea32dcaa643ee73e45834"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

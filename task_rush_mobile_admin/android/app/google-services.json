@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "813850757085-gu8k0hbrliivn9qvo848a0cbeeigmkl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_rush_mobile_admin",
+            "certificate_hash": "32c141edd86430a1a9505c21ae5aabc6e2603596"
+          }
+        },
+        {
           "client_id": "813850757085-djc1o3ugm6o0kcv8ql11esopusmsqkvq.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "813850757085-djc1o3ugm6o0kcv8ql11esopusmsqkvq.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "813850757085-appt8l43sfke8eflfme3jukq1ruk2b9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskRushMobileAdmin"
+              }
             }
           ]
         }
@@ -58,6 +73,13 @@
             {
               "client_id": "813850757085-djc1o3ugm6o0kcv8ql11esopusmsqkvq.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "813850757085-appt8l43sfke8eflfme3jukq1ruk2b9n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskRushMobileAdmin"
+              }
             }
           ]
         }
